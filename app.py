@@ -17,7 +17,7 @@ load_dotenv()
 
 @st.cache_resource
 def get_groq_client():
-    api_key = os.environ.get("GROQ_API_KEY")
+    api_key = st.secrets.get("GROQ_API_KEY")
     if not api_key:
         st.error("GROQ_API_KEY not found. Please check your .env file.")
         st.stop()
