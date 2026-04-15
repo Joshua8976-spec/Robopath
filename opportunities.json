@@ -1,0 +1,122 @@
+[
+  {
+    "name": "FIRST Robotics Competition (FRC)",
+    "type": "competition",
+    "description": "Build a robot in 6 weeks to compete in a global robotics challenge.",
+    "deadline": "Season: Jan–Apr each year",
+    "why_fit": "Best gateway competition for high school students into serious robotics engineering.",
+    "url": "https://www.firstinspires.org/robotics/frc",
+    "grades": ["Grade 10–11 (High school)", "Grade 12 / Pre-university"],
+    "keywords": ["robot", "robotics", "hardware", "mechanical", "electronics"]
+  },
+  {
+    "name": "FIRST Tech Challenge (FTC)",
+    "type": "competition",
+    "description": "Design and program a robot using Android-based control system.",
+    "deadline": "Season: Sep–Apr each year",
+    "why_fit": "Ideal for students who want to blend software and hardware with a smaller team.",
+    "url": "https://www.firstinspires.org/robotics/ftc",
+    "grades": ["Grade 8–9 (Middle school)", "Grade 10–11 (High school)", "Grade 12 / Pre-university"],
+    "keywords": ["robot", "programming", "android", "java", "hardware"]
+  },
+  {
+    "name": "RoboNation RoboSub",
+    "type": "competition",
+    "description": "Design an autonomous underwater vehicle to complete underwater tasks.",
+    "deadline": "Annual — submissions typically due March",
+    "why_fit": "Perfect for students interested in autonomous systems and marine/space robotics.",
+    "url": "https://robonation.org/programs/robosub/",
+    "grades": ["Undergraduate Year 1–2", "Undergraduate Year 3–4"],
+    "keywords": ["autonomous", "underwater", "ROS", "computer vision", "drone", "space robotics"]
+  },
+  {
+    "name": "NASA Internship Program",
+    "type": "internship",
+    "description": "Work on real aerospace and robotics projects at NASA research centers.",
+    "deadline": "Applications open Oct–Feb for summer session",
+    "why_fit": "Dream internship for students targeting space robotics, drones, or autonomous systems.",
+    "url": "https://intern.nasa.gov",
+    "grades": ["Undergraduate Year 1–2", "Undergraduate Year 3–4"],
+    "keywords": ["space robotics", "autonomous", "drone", "AI", "computer vision"]
+  },
+  {
+    "name": "Boston Dynamics AI Institute — Student Programs",
+    "type": "internship",
+    "description": "Research internships on legged robots, manipulation, and AI.",
+    "deadline": "Rolling applications — check site",
+    "why_fit": "World-leading lab for humanoid and legged robot research.",
+    "url": "https://theaiinstitute.com",
+    "grades": ["Undergraduate Year 3–4"],
+    "keywords": ["humanoid robots", "robot manipulation", "AI", "machine learning", "ROS"]
+  },
+  {
+    "name": "OpenCV Contributor",
+    "type": "opensource",
+    "description": "Contribute to the world's most popular computer vision library.",
+    "deadline": "Open year-round",
+    "why_fit": "Builds strong computer vision and C++/Python skills, great for your GitHub portfolio.",
+    "url": "https://github.com/opencv/opencv",
+    "grades": ["all"],
+    "keywords": ["computer vision", "Python", "C++", "machine learning", "AI"]
+  },
+  {
+    "name": "ROS 2 (Robot Operating System) — Open Source",
+    "type": "opensource",
+    "description": "Contribute to the standard robotics middleware used by industry and research.",
+    "deadline": "Open year-round",
+    "why_fit": "Contributing to ROS is highly respected in robotics — signals real industry readiness.",
+    "url": "https://github.com/ros2/ros2",
+    "grades": ["all"],
+    "keywords": ["ROS", "robotics", "autonomous", "robot manipulation", "swarm robotics"]
+  },
+  {
+    "name": "MIT PRIMES Program",
+    "type": "competition",
+    "description": "Year-long research program mentored by MIT mathematicians and scientists.",
+    "deadline": "Applications open in October each year",
+    "why_fit": "Direct connection to MIT researchers — transformative for students targeting MIT admissions.",
+    "url": "https://math.mit.edu/research/highschool/primes/",
+    "grades": ["Grade 10–11 (High school)", "Grade 12 / Pre-university"],
+    "keywords": ["MIT", "research", "AI", "machine learning", "robotics"]
+  },
+  {
+    "name": "Google Summer of Code (GSoC)",
+    "type": "opensource",
+    "description": "Paid open-source program where students contribute to major organizations.",
+    "deadline": "Applications open in March each year",
+    "why_fit": "Paid, prestigious, and adds massive credibility to your GitHub and LinkedIn.",
+    "url": "https://summerofcode.withgoogle.com",
+    "grades": ["Undergraduate Year 1–2", "Undergraduate Year 3–4"],
+    "keywords": ["Python", "machine learning", "AI", "computer vision", "ROS"]
+  },
+  {
+    "name": "iGEM (International Genetically Engineered Machine)",
+    "type": "competition",
+    "description": "Global synthetic biology and bioengineering competition with robotics tracks.",
+    "deadline": "Season: Jan–Oct each year",
+    "why_fit": "For students combining robotics with biology — medical robotics angle is very strong.",
+    "url": "https://igem.org",
+    "grades": ["Grade 12 / Pre-university", "Undergraduate Year 1–2", "Undergraduate Year 3–4"],
+    "keywords": ["medical robotics", "bio", "engineering", "AI"]
+  },
+  {
+    "name": "Autonomous Vehicle Competition — AutoDrive Challenge",
+    "type": "competition",
+    "description": "Develop a self-driving vehicle over three years with SAE and GM support.",
+    "deadline": "Annual enrollment — check site for dates",
+    "why_fit": "Hands-on autonomous vehicles experience with industry mentorship from GM.",
+    "url": "https://www.sae.org/attend/student-events/autodrive-challenge",
+    "grades": ["Undergraduate Year 1–2", "Undergraduate Year 3–4"],
+    "keywords": ["autonomous vehicles", "self-driving", "computer vision", "ROS", "machine learning"]
+  },
+  {
+    "name": "Raspberry Pi Foundation — Educator & Student Grant",
+    "type": "internship",
+    "description": "Funding and mentorship for students building hardware projects with Raspberry Pi.",
+    "deadline": "Rolling grants — check site",
+    "why_fit": "Ideal for students building physical AI-powered hardware projects on a budget.",
+    "url": "https://www.raspberrypi.org/grants",
+    "grades": ["all"],
+    "keywords": ["Raspberry Pi", "hardware", "electronics", "Python", "robotics"]
+  }
+]
